@@ -1534,7 +1534,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 1200;
+				LastUpgradeCheck = 1250;
 				ORGANIZATIONNAME = sbooth.org;
 				TargetAttributes = {
 					32C212D41091116D00BA2493 = {
